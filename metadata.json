@@ -1,0 +1,6 @@
+{
+  "name": "Let's Learn About Fruits!",
+  "description": "Media pembelajaran interaktif Bahasa Inggris kelas 2 SD tema Buah-buahan dengan ilustrasi 3D, pelafalan audio, 5 permainan edukatif, dan kuis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
